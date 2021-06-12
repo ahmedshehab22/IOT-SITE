@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:#293250;
+}
+
+.center_Circle {
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    background:#FFD55A;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 500px;
+    color: #ddd;
+    width: 320px;
+    height: 320px;
+    margin-top: 50px;
+}
+
+.center_Circle p {
+    font-size: 3.5em;
+    text-align: center;
+    color: #293250;
+}
+
+.samall_circle {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 350;
+    color: #ddd;
+    margin-top: 50px;
+}
+
+.samall_circle a {
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    background: #6DD47E;
+    padding: 50px;
+    margin: 30px;
+    border-radius: 120px;
+    font-size: 4em;
+    text-align: center;
+    color: #293250;
+    text-decoration-line: none;
+}
+.samall_circle a:hover{
+    background: #ddd;
+    color: #293250;
+}
+.img1
+{
+border-radius: 120px;
+height:500px;
+width:700px;
+padding: 35px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.p1
+{
+background-color: #FFD55A;
+border-radius: 15px 50px;
+width: auto;
+height:auto;
+font-size: 30px;
+color: #293250; 
+}
+.p2t1
+{
+background-color:#FFD55A;
+border-radius: 15px 50px;
+width: auto;
+height:auto;
+font-size: 30px;
+color: #293250; 
+text-align: center;
+}
+.p2t2
+{
+
+border-radius: 15px 50px;
+width: auto;
+height:auto;
+font-size: 30px;
+color: #293250;   
+}
+.p2t3
+{
+background-color:#6DD47E;
+border-radius: 10px;
+height:fit-content ;
+width: fit-content;
+padding: 10px;
+margin:20px ;
+color:#293250;
+font-size: 35px;
+display:inline-block;
+justify-content: center;
+align-content: center;
+align-items: center;
+}
+.p2t3 a:hover{
+    background: #ddd;
+    color: #293250;
+}
+.p2t3 a 
+{
+background-color: #6DD47E;
+border-radius: 10px;
+margin: 40px;
+font-size: 40px;
+padding: 50px;
+text-decoration-line: none;
+color:#293250;
+}
+.p3
+{
+background-color: #FFD55A;
+border-radius: 15px 50px;
+width: auto;
+height:auto;
+font-size: 30px;
+color: #293250;   
+}
+.p4
+{
+background-color: #6DD47E;
+border-radius: 15px 50px;
+width: auto;
+height:auto;
+font-size: 30px;
+color: #293250;   
+}
